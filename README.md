@@ -1,4 +1,11 @@
-### Hi there 👋
+Hi there, I'm Yalın 👋
+
+📫 How to reach me:
+- email: yalinpala [ at ] proton [ dot ] me
+- www: [yalinpala.dev/](https://yalinpala.dev/)
+- hackerrank: [ypala](https://www.hackerrank.com/ypala) 
+- linkedin: [yalin-pala](https://linkedin.com/in/yalın-pala-2426a3219)
+- mastodon: [@yplog](https://fosstodon.org/@yplog)
 
 <!--
 **yplog/yplog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
