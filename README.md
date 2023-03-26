@@ -5,7 +5,7 @@ Hi there, I'm Yalın 👋
 - www: [yalinpala.dev/](https://yalinpala.dev/)
 - hackerrank: [ypala](https://www.hackerrank.com/ypala) 
 - linkedin: [yalin-pala](https://linkedin.com/in/yalın-pala-2426a3219)
-- mastodon: [@yplog](https://fosstodon.org/@yplog)
+- mastodon: <a rel="me" href="https://fosstodon.org/@yplog">@yplog</a>
 
 <!--
 **yplog/yplog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a rel="me" href="https://fosstodon.org/@yplog">Mastodon</a>
 -->
