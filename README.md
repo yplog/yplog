@@ -2,7 +2,7 @@ Hi there, I'm Yalın 👋
 
 📫 How to reach me:
 - email: yalinpala [ at ] proton [ dot ] me
-- www: [yalinpala.dev/](https://yalinpala.dev/)
+- www: [yalinpala.dev](https://yalinpala.dev/)
 - hackerrank: [ypala](https://www.hackerrank.com/ypala) 
 - linkedin: [yalin-pala](https://linkedin.com/in/yalın-pala-2426a3219)
 - mastodon: <a rel="me" href="https://fosstodon.org/@yplog">@yplog</a>
