@@ -1,6 +1,7 @@
 Hi there, I'm Yalın 👋
 
-📫 How to reach me:
+📫 How to reach me: 
+- [![GPG](https://img.shields.io/badge/gpg-459846E28C0A2077-lightgrey)](https://yalinpala.dev/yps-public-key.txt)
 - email: yalinpala [ at ] proton [ dot ] me
 - www: [yalinpala.dev](https://yalinpala.dev/)
 - hackerrank: [ypala](https://www.hackerrank.com/ypala) 
