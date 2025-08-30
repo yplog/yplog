@@ -1,26 +1,7 @@
-Hi there, I'm Yalın 👋
+# Hi, I’m Yalın 👋  
 
-📫 How to reach me: 
-- email: yalinpala [ at ] pm [ dot ] me
-- www: [yalinpala.dev](https://yalinpala.dev/)
+I’m a software developer working on backend systems, system design, and open-source projects.  
+
 <!--
-- hackerrank: [ypala](https://www.hackerrank.com/ypala) 
-- linkedin: [yalin-pala](https://linkedin.com/in/yalın-pala-2426a3219)
-- mastodon: <a rel="me" href="https://fosstodon.org/@yplog">@yplog</a>
-
-
-**yplog/yplog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <a rel="me" href="https://fosstodon.org/@yplog">Mastodon</a>
 -->
